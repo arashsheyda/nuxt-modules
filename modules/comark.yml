@@ -1,0 +1,27 @@
+name: comark
+description: Components in Markdown (Comark) parser with streaming support.
+repo: https://github.com/comarkdown/comark
+npm: "@comark/nuxt"
+icon: comark.svg
+github: https://github.com/comarkdown/comark/tree/main/packages/comark-nuxt
+website: https://comark.dev/
+learn_more: https://comark.dev/rendering/nuxt
+category: Database
+type: 3rd-party
+maintainers:
+  - name: Farnabaz
+    github: farnabaz
+    twitter: a_birang
+    bluesky: farnabaz.dev
+  - name: Sébastien Chopin
+    github: Atinux
+    twitter: atinux
+    bluesky: atinux.com
+  - name: Arash Ari Sheyda
+    github: arashsheyda
+    twitter: arash_sheyda
+    bluesky: arashsheyda.me
+compatibility:
+  nuxt: '>=3.0.0'
+  requires: {}
+  devtools: ^0.0.0
