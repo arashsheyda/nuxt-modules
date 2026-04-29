@@ -17,10 +17,10 @@ maintainers:
     github: Atinux
     twitter: atinux
     bluesky: atinux.com
-  - name: Arash Ari Sheyda
-    github: arashsheyda
-    twitter: arash_sheyda
-    bluesky: arashsheyda.me
+  - name: Baptiste Leproux
+    github: larbish
+    twitter: _larbish
+    bluesky: larbish.bsky.social
 compatibility:
   nuxt: '>=3.0.0'
   requires: {}
